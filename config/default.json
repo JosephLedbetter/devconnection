@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://joe123:Donald425@>@devconnector-krp9k.mongodb.net/test?retryWrites=true&w=majority",
+  "useNewUrlParser": "true"
+}
